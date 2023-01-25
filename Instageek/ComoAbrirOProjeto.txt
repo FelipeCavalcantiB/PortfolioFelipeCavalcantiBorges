@@ -1,0 +1,16 @@
+Para iniciar a api do strapi:
+Abrir o cmd dentro da pasta instageekback
+Utilizar o comando strapi start
+Fazer o login no strapi se quiser criar um post novo para testes
+
+Para visualizar o projeto do instageek no navegador:
+Abrir o cmd dentro da pasta instageek
+Utilizar o comando yarn start
+Apertar W para abrir na web
+
+--------------------------------------------------------------------------------------------
+Antes de tudo, a pasta node modules (dependecias do projeto) não está no projeto,
+portanto, é necessário antes de executa-lo, abrir o cmd dentro da pasta instageek e utilizar
+o comando npm install, realizando o mesmo processo dentro da pasta instageekback
+
+O Strapi não está mais atualizado para ultima versão do Nodejs, portanto, é necessário instalar uma versão mais antiga do Nodejs para executar o projeto, como o Nodejs 11.14.0 por exemplo.

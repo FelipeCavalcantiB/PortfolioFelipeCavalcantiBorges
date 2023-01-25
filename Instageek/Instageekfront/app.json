@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "instageek",
+    "slug": "instageek",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "instageek"
+}
